@@ -8,7 +8,7 @@ Este repositório contém mods para aprimorar a experiência de jogo de xadrez o
 
 ### ChessMint
 
-![ChessMint Logo](/ChessMint/img/logo-big.png){width=300px}
+![ChessMint Logo](/ChessMint/img/logo-big.png)
 
 ChessMint é uma extensão para navegador Chrome que adiciona recursos avançados para usuários do Chess.com:
 
